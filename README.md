@@ -2,7 +2,7 @@
 
 Thirteen models, 145 real-time predictors and 32 years of out-of-sample forecasts (1995–2026) for one-, three- and six-month changes in US corporate credit spreads.
 
-**Read the report:** https://speedkelvyn.github.io/Speedy.github.io/projects/credit-spreads/
+**Read the report:** https://speedkelvyn.github.io/Credit-spread-forecasting-/
 
 ## Findings
 
